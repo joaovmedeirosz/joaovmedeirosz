@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Eu sou João Vittor, um estudante de Ciências da Computação na UNIBH campus Estoril.
 
-<!--
-**joaovmedeirosz/joaovmedeirosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Atualmente, estou dedicando meu tempo ao estudo e aprofundamento em Programação, buscando ampliar meus conhecimentos teóricos e práticos nesta área fascinante.
 
-Here are some ideas to get you started:
+Interesses
+Programação: Possuo habilidades em linguagens como Java , Rust, HTML , CSS e C++
+Desenvolvimento Profissional: Busco aprimorar minhas habilidades em Programação, evoluir para encontrar uma empresa que possa crescer, aprender e contribuir pra seu crescimento.
+Fique à vontade para entrar em contato comigo para discutir TI ou qualquer outro tópico relacionado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E-mail: joaovittormedeiros443@gmail.com
+LinkedIn: www.linkedin.com/in/joaovmedeirosz/
+Sempre aberto a novas oportunidades de aprendizado e colaboração!
