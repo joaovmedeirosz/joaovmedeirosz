@@ -13,4 +13,6 @@ Fique à vontade para entrar em contato comigo para discutir TI ou qualquer outr
 CONTATO:
 E-mail: joaovittormedeiros443@gmail.com
 LinkedIn: www.linkedin.com/in/joaovmedeirosz/
+
+
 Sempre aberto a novas oportunidades de aprendizado e colaboração!
